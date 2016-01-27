@@ -45,9 +45,5 @@ Endpoints:
 
   - Private-IP-Name:   IP
     Private-Port-Name: TRANSPORT_PORT
-    Private-Port:      9300
-    Public-Port-Name:  TRANSPORT_PROXY_PORT
-  - Private-IP-Name:   IP
-    Private-Port-Name: TRANSPORT_PORT
     Private-Port:      9400
     Public-Port-Name:  TRANSPORT_PROXY_PORT
